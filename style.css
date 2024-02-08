@@ -2,11 +2,9 @@
     border: 0;
     padding: 0;
 }
-
 .teste1 {
     border: none!important;
 }
-
 .carousel_box {
     display: flex;
     align-items: center;
